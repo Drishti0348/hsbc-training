@@ -1,4 +1,0 @@
-A reference is an address that indicates where an object's variables and methods are 
-stored whereas object is self-contained component which consists of methods and properties 
-to make a particular type of data useful.
-Object is a instance of class and reference is a instance of object.
