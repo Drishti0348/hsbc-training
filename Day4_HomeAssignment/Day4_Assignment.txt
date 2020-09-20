@@ -1,0 +1,6 @@
+1)yes,a try block can exist with a matching catch block but it has to have a finally block instead.
+2)No, there can't be a catch block without a try block.
+3)No,a programs needs to have a try catch block or atleast a try block to have a finally block in the program.
+4)yes,there can be a try block without matching catch block but with finally block.
+5)No,an exception doesn't have to be handled by the same try-catch block that threw it.This can be done using nested try catch block.
+6)To make sure that we catch every exception that a program may throw,one needs to write a seperate catch block for all posible exception.
